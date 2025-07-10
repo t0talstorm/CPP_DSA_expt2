@@ -1,3 +1,7 @@
+// Name - Aditya Ishan Sinha 
+// PRN - 24070123006
+// Batch - EnTC - A1
+
 #include <iostream>
 #include <string>
 using namespace std;
